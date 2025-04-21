@@ -1,7 +1,7 @@
 /* Book - 기본 regular */
 @font-face {
   font-family: "PPNeueMontreal";
-  src: url("/fonts/PPNeueMontreal-Book.otf") format("opentype");
+  src: url("./fonts/PPNeueMontreal-Book.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
@@ -9,7 +9,7 @@
 /* Bold */
 @font-face {
   font-family: "PPNeueMontreal";
-  src: url("/fonts/PPNeueMontreal-Bold.otf") format("opentype");
+  src: url("./fonts/PPNeueMontreal-Bold.otf") format("opentype");
   font-weight: 700;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 /* Medium */
 @font-face {
   font-family: "PPNeueMontreal";
-  src: url("/fonts/PPNeueMontreal-Medium.otf") format("opentype");
+  src: url("./fonts/PPNeueMontreal-Medium.otf") format("opentype");
   font-weight: 500;
   font-style: normal;
 }
@@ -25,7 +25,7 @@
 /* Thin */
 @font-face {
   font-family: "PPNeueMontreal";
-  src: url("/fonts/PPNeueMontreal-Thin.otf") format("opentype");
+  src: url("./fonts/PPNeueMontreal-Thin.otf") format("opentype");
   font-weight: 100;
   font-style: normal;
 }
@@ -33,7 +33,7 @@
 /* Italic */
 @font-face {
   font-family: "PPNeueMontreal";
-  src: url("/fonts/PPNeueMontreal-Italic.otf") format("opentype");
+  src: url("./fonts/PPNeueMontreal-Italic.otf") format("opentype");
   font-weight: 400;
   font-style: italic;
 }
@@ -41,7 +41,7 @@
 /* SemiBold Italic */
 @font-face {
   font-family: "PPNeueMontreal";
-  src: url("/fonts/PPNeueMontreal-SemiBoldItalic.otf") format("opentype");
+  src: url("./fonts/PPNeueMontreal-SemiBoldItalic.otf") format("opentype");
   font-weight: 600;
   font-style: italic;
 }
